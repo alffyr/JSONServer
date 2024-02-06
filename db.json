@@ -1,6 +1,7 @@
 {
     "unit": [
         {
+            "id": 1,
             "sku": 88881,
             "name": "Samsung S10 Plus",
             "brand": "Samsung",
@@ -11,6 +12,7 @@
             "condition": "Brand New"
         },
         {
+            "id": 2,
             "sku": 88882,
             "name": "Samsung S20",
             "brand": "Samsung",
@@ -21,6 +23,7 @@
             "condition": "Brand New"
         },
         {
+            "id": 3,
             "sku": 88883,
             "name": "iPhone 12 Pro",
             "brand": "Apple",
@@ -31,6 +34,7 @@
             "condition": "Brand New"
         },
         {
+            "id": 4,
             "sku": 88884,
             "name": "Google Pixel 5",
             "brand": "Google",
@@ -41,6 +45,7 @@
             "condition": "Brand New"
         },
         {
+            "id": 5,
             "sku": 88885,
             "name": "OnePlus 9 Pro",
             "brand": "OnePlus",
@@ -51,6 +56,7 @@
             "condition": "Brand New"
         },
         {
+            "id": 6,
             "sku": 88886,
             "name": "Xiaomi Mi 11",
             "brand": "Xiaomi",
@@ -61,6 +67,7 @@
             "condition": "Brand New"
         },
         {
+            "id": 7,
             "sku": 88887,
             "name": "Sony Xperia 1 III",
             "brand": "Sony",
@@ -73,7 +80,8 @@
     ],
     "order": [
         {
-            "id": 77771,
+            "id": 1,
+            "order-id": 77771,
             "name": "Achmed Sahroni",
             "unit": 88881,
             "quantity": 1,
@@ -84,7 +92,8 @@
             "tracking-id": ""
         },
         {
-            "id": 77772,
+            "id": 2,
+            "order-id": 77772,
             "name": "John Doe",
             "unit": 88882,
             "quantity": 2,
@@ -95,7 +104,8 @@
             "tracking-id": "ABCD123456"
         },
         {
-            "id": 77773,
+            "id": 3,
+            "order-id": 77773,
             "name": "Jane Smith",
             "unit": 88883,
             "quantity": 1,
@@ -106,7 +116,8 @@
             "tracking-id": ""
         },
         {
-            "id": 77774,
+            "id": 4,
+            "order-id": 77774,
             "name": "Alice Johnson",
             "unit": 88884,
             "quantity": 3,
@@ -117,7 +128,8 @@
             "tracking-id": "EFGH987654"
         },
         {
-            "id": 77775,
+            "id": 5,
+            "order-id": 77775,
             "name": "Bob Williams",
             "unit": 88885,
             "quantity": 1,
@@ -128,7 +140,8 @@
             "tracking-id": "IJKL543210"
         },
         {
-            "id": 77776,
+            "id": 6,
+            "order-id": 77776,
             "name": "Eva Brown",
             "unit": 88886,
             "quantity": 2,
@@ -139,7 +152,8 @@
             "tracking-id": ""
         },
         {
-            "id": 77777,
+            "id": 7,
+            "order-id": 77777,
             "name": "Michael Wilson",
             "unit": 88887,
             "quantity": 1,
